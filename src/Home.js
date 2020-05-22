@@ -2,6 +2,7 @@ import React from "react";
 import axios from "axios";
 import moment from "moment";
 import MovieDetail from "./MovieDetail";
+import "./Home.css";
 
 class Home extends React.Component {
   // KOFIC API
