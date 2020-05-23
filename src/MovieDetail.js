@@ -7,7 +7,7 @@ class MovieDetail extends React.Component {
   // KOFIC API
   KOFIC = {
     API_URL:
-      " http://www.kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieInfo.json",
+      " https://www.kobis.or.kr/kobisopenapi/webservice/rest/movie/searchMovieInfo.json",
     KEY: "c74d1e3ccf220bb37d0dea10acafcfa5",
   };
 
