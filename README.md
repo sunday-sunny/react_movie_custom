@@ -5,11 +5,11 @@
 
 ![image](2020-05-26-23-12-11.png)
 
-### 📍 gh-pages
+## 📍 gh-pages
 
 👀 [https://sunday-sunny.github.io/react_movie_custom/](https://sunday-sunny.github.io/react_movie_custom/)
 
-### 📍 API
+## 📍 API
 
 - 💡 [한국진흥위원회 오픈 API](http://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
   - 일별 박스오피스
@@ -18,11 +18,11 @@
   - Search Movies
   - Images
 
-### 📍 라이브러리
+## 📍 라이브러리
 
 - axios
 - moment
 
-### 📍 UI
+## 📍 UI
 
 - [uiGradients](https://uigradients.com/#CrystalClear)
