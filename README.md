@@ -1,21 +1,15 @@
-#🌠React Movie App
-
----
+# 🌠React Movie App
 
 🎬 이 App은 Nomad code `ReactJS로 웹서비스 만들기`를 수강하고 커스텀한 어플리케이션입니다.  
 한국진흥위원회 오픈 API를 이용하여 어제 날짜 기준 일일 박스오피스 10편을 보여줍니다.
 
 ![image](2020-05-26-23-12-11.png)
 
-###📍 gh-pages
-
----
+### 📍 gh-pages
 
 👀 [https://sunday-sunny.github.io/react_movie_custom/](https://sunday-sunny.github.io/react_movie_custom/)
 
-###📍 API
-
----
+### 📍 API
 
 - 💡 [한국진흥위원회 오픈 API](http://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do)
   - 일별 박스오피스
@@ -24,15 +18,11 @@
   - Search Movies
   - Images
 
-###📍 라이브러리
-
----
+### 📍 라이브러리
 
 - axios
 - moment
 
-###📍 UI
-
----
+### 📍 UI
 
 - [uiGradients](https://uigradients.com/#CrystalClear)
